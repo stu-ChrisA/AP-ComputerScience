@@ -4,7 +4,7 @@ public class HailStone1
     {
         int start = 200;
         int steps = 0;
-        System.out.println(start);
+        System.out.print(start + " ");
         for(int i = 1; i < 200; i++)
         {
             if(start%2 == 0)
